@@ -38,8 +38,7 @@
     <title>Document</title>
 </head>
 <body>
-	<!-- view barang -->	
-    <!-- view barang -->	
+	<!-- view barang	 -->
     <div class="modal-view">
         <h3 style="text-align:center;"> 
                 <?php if(!empty(htmlentities($_GET['cari']))){ ?>
