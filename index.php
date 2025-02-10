@@ -1,13 +1,5 @@
 <?php 
-/*
-  | Source Code Aplikasi POS UP RPL
-  | 
-  | @package   : pos-kasir-up-rpl
-  | @file	   : index.php 
-  | @author    : graywolfking
-  | @copyright : graywolfking
-  | 
- */
+
 
 	@ob_start();
 	session_start();
